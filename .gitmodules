@@ -1,3 +1,9 @@
+[submodule "knh7-hbr3"]
+	path = knh7-hbr3
+	url = https://github.com/valenpe7/knh7-hbr3.git
+[submodule "PhysRevE.109.065204"]
+	path = PhysRevE.109.065204
+	url = https://github.com/valenpe7/PhysRevE.109.065204.git
 [submodule "PhysRevE.102.053216"]
 	path = PhysRevE.102.053216
 	url = https://github.com/valenpe7/PhysRevE.102.053216.git
