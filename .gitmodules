@@ -1,9 +1,3 @@
-[submodule "knh7-hbr3"]
-	path = knh7-hbr3
-	url = https://github.com/valenpe7/knh7-hbr3.git
-[submodule "PhysRevE.109.065204"]
-	path = PhysRevE.109.065204
-	url = https://github.com/valenpe7/PhysRevE.109.065204.git
 [submodule "PhysRevE.102.053216"]
 	path = PhysRevE.102.053216
 	url = https://github.com/valenpe7/PhysRevE.102.053216.git
@@ -12,7 +6,13 @@
 	url = https://github.com/valenpe7/1.5142084.git
 [submodule "5.0065167"]
 	path = 5.0065167
-	url = https://github.com/valenpe7/5.0065167
+	url = https://github.com/valenpe7/5.0065167.git
 [submodule "5.0189051"]
 	path = 5.0189051
 	url = https://github.com/valenpe7/5.0189051.git
+[submodule "PhysRevE.109.065204"]
+	path = PhysRevE.109.065204
+	url = https://github.com/valenpe7/PhysRevE.109.065204.git
+[submodule "knh7-hbr3"]
+	path = knh7-hbr3
+	url = https://github.com/valenpe7/knh7-hbr3.git
