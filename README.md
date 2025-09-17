@@ -1,6 +1,6 @@
 # Reproducible research
 
-This repository brings together a collection of reproducible papers authored by me and my collaborators. Each sub-repository contains the data analysis and computational workflows required to reproduce the corresponding scientific paper. By consolidating these works, this repository provides a single entry point for exploring and reproducing our scientific contributions.
+This repository brings together a collection of reproducible papers authored by me ([@valenpe7](https://www.github.com/valenpe7)) and my collaborators. Each sub-repository contains the data analysis and computational workflows required to reproduce the corresponding scientific paper. By consolidating these works, this repository provides a single entry point for exploring and reproducing our scientific contributions.
 
 The list of papers below is sorted by date of publication, with the most recent first:
 
