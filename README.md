@@ -6,6 +6,7 @@ The list of reproducible papers below is sorted by date of publication, with the
 
 | Repository | Authors | Title | Journal | Volume | Page | Year |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
+| [ae51e0](https://github.com/valenpe7/ae51e0) | P. Valenta et al. | "Optimized matching conditions for self-guided laser wakefield accelerators" | *Machine Learning: Science and Technology* | **7** | 025030 | 2026 |
 | [knh7-hbr3](https://github.com/valenpe7/knh7-hbr3) | P. Valenta et al. | "Bayesian optimization of electron energy from laser wakefield accelerators" | *Physical Review Accelerators and Beams* | **28** | 094601 | 2025 |
 | [PhysRevE.109.065204](https://github.com/valenpe7/PhysRevE.109.065204) | P. Valenta et al. | "Direct laser acceleration: A model for the electron injection from the walls of a cylindrical guiding structure" | *Physical Review E* | **109** | 065204 | 2024 |
 | [5.0189051](https://github.com/valenpe7/5.0189051) | C. M. Lazzarini et al. | "Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser" | *Physics of Plasmas* | **31** | 030703 | 2024 |
