@@ -16,3 +16,6 @@
 [submodule "knh7-hbr3"]
 	path = knh7-hbr3
 	url = https://github.com/valenpe7/knh7-hbr3.git
+[submodule "ae51e0"]
+	path = ae51e0
+	url = https://github.com/valenpe7/ae51e0.git
